@@ -2,9 +2,11 @@
 <img width="1280" height="720" alt="WIN_20260425_17_37_33_Pro" src="https://github.com/user-attachments/assets/352da884-1e7e-4fbf-84b2-136e666b84a0" />
 
 ## Student Information
-- *Name:* Carl Andrei D. Torres
-- *Section:* CPE21S1
-- *Birth Date:* November 24, 2006
+- *Name:* **Carl Andrei D. Torres**
+- *Program:* **Bachelor of Science in Computer Engineering**
+- *Course:* **CPE-031 - Visualization and Data Analysis**
+- *Section:* **CPE21S1**
+- *Birth Date:* **November 24, 2006**
 
 ## Short Description about Me
 - I'm **19 years old**.
