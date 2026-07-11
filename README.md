@@ -1,4 +1,4 @@
-# CPE-031---CPE21S1---Visualizations-and-Data-Analysis---TORRES
+# CPE-031-CPE21S1-Visualizations-and-Data-Analysis-TORRES
 <img width="1280" height="720" alt="WIN_20260425_17_37_33_Pro" src="https://github.com/user-attachments/assets/352da884-1e7e-4fbf-84b2-136e666b84a0" />
 
 ## Student Information
