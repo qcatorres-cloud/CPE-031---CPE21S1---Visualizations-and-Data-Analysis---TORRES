@@ -31,4 +31,3 @@ This repository was created as a requirement for the course ***CPE 031 - Visuali
 ├── Laboratory Activites/  - Contains all of the completed lab exercises.
 ├── Projects/              - Contains major course projects
 └── README.md              - Course Overview, Student Profile, and Repository Guide.
-\```
