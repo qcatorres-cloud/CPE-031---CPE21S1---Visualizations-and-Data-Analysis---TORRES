@@ -25,4 +25,6 @@
 This repository was created as a requirement for the course ***CPE 031 - Visualizations and Data Analysis***. This repository also created for me to ***submit my works for this course***.
 
 ## Contents
+- Laboratory Activities
+- Projects
 - README.md
