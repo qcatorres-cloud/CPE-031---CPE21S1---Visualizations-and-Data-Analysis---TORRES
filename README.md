@@ -1,5 +1,9 @@
 # CPE-031-CPE21S1-Visualization and Data Analysis-TORRES
+
+# My Photos
 <img width="1280" height="720" alt="WIN_20260425_17_37_33_Pro" src="https://github.com/user-attachments/assets/352da884-1e7e-4fbf-84b2-136e666b84a0" />
+<img width="485" height="466" alt="MY PHOTO 1 1" src="https://github.com/user-attachments/assets/4c8daf00-ca3e-4649-a846-547003fc9603" />
+<img width="197" height="147" alt="MY PHOTO 1 2" src="https://github.com/user-attachments/assets/7f2c57b0-3259-4fbf-87e4-22cf60be7c65" />
 
 ## Student Information
 - *Name:* **Carl Andrei D. Torres**
