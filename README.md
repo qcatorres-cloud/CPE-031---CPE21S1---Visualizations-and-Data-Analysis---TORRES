@@ -18,13 +18,17 @@
 - I played **Badminton** for almost **5 years**.
 - My **Hobbies** are **Playing Videogames, Playing Sports, and Sleeping**.
 
-## Why choose CPE?
-- ***Robotics*** is my interest which are introduced in the ***Electives in CPE*** because I got hooked by creating robot prototypes and programmed them by coding for our research project in my high school years.
+## Tools and Materials
+- Python
+- Jupyter Notebook
 
 ## Description
 This repository was created as a requirement for the course ***CPE 031 - Visualizations and Data Analysis***. This repository also created for me to ***submit my works for this course***.
 
 ## Contents
-- Laboratory Activities
-- Projects
-- README.md
+
+```text
+├── Laboratory Activites/  - Contains all of the completed lab exercises.
+├── Projects/              - Contains major course projects
+└── README.md              - Course Overview, Student Profile, and Repository Guide.
+\```
